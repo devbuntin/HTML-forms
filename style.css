@@ -54,6 +54,7 @@ main {
     }
     .group {
       flex-direction: row;
+      margin-right: 800px;
     }
   }
   
